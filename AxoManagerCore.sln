@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxoManager", "AxoManager\AxoManager.csproj", "{01E6C81F-E0A3-464F-BE87-BC462B65C080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E6C81F-E0A3-464F-BE87-BC462B65C080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E6C81F-E0A3-464F-BE87-BC462B65C080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E6C81F-E0A3-464F-BE87-BC462B65C080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E6C81F-E0A3-464F-BE87-BC462B65C080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B9CEFA-01F1-43BA-9CF2-113E7FFA3B3A}
+	EndGlobalSection
+EndGlobal
