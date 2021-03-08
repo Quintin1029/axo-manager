@@ -18,12 +18,14 @@ namespace AxoManager.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult PNMs()
         {
+            DBConnector con = new DBConnector("SELECT * FROM Users");
+            Object x = con.ExecuteScalar();
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Analytics()
         {
             return View();
         }
